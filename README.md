@@ -1,7 +1,16 @@
-# FinMatch - Swipe Right on Your Financial Future
+<img width="1266" height="585" alt="IMG_5022" src="https://github.com/user-attachments/assets/b41c514d-600d-457b-8182-28caea57b57a" /># FinMatch - Swipe Right on Your Financial Future
 
-**Built in 25 minutes at the Mini Cursor Hackathon at the Cursor Cafe event.** We were one of five groups selected to present our project live.
-<img width="585" height="546" alt="Screenshot 2026-03-19 at 1 53 04 PM" src="https://github.com/user-attachments/assets/99e36b69-9071-44b8-9f6f-f92d4c131b53" />
+**Built in 25 minutes at the Mini Cursor Hackathon at the Cursor Cafe event.** We were one of five groups selected to present our project live to the hundreds of attendees.
+
+<img width="1114" height="623" alt="Screenshot 2026-03-19 at 1 59 26 PM" src="https://github.com/user-attachments/assets/d6730350-a6e9-496c-ada8-4f1d3bc0b392" />
+
+
+<img width="967" height="602" alt="Screenshot 2026-03-19 at 1 57 00 PM" src="https://github.com/user-attachments/assets/9629de20-d163-4824-87d1-e51446ccba33" />
+
+
+### Claude's got jokes
+
+<img width="1028" height="764" alt="Screenshot 2026-03-19 at 1 54 39 PM" src="https://github.com/user-attachments/assets/278417ba-8196-49db-887c-42a246506f3c" />
 
 ## What is FinMatch?
 
