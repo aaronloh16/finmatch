@@ -1,4 +1,4 @@
-<img width="1266" height="585" alt="IMG_5022" src="https://github.com/user-attachments/assets/b41c514d-600d-457b-8182-28caea57b57a" /># FinMatch - Swipe Right on Your Financial Future
+# FinMatch - Swipe Right on Your Financial Future
 
 **Built in 25 minutes at the Mini Cursor Hackathon at the Cursor Cafe event.** We were one of five groups selected to present our project live to the hundreds of attendees.
 
