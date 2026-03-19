@@ -1,0 +1,16 @@
+dataDir: ~/.agent-orchestrator
+worktreeDir: ~/.worktrees
+port: 3000
+defaults:
+  runtime: tmux
+  agent: claude-code
+  workspace: worktree
+  notifiers:
+    - desktop
+projects:
+  stock-market-helper-game:
+    name: stock-market-helper-game
+    sessionPrefix: smhg
+    repo: ""
+    path: /Users/aaronloh/Code/stock-market-helper-game
+    defaultBranch: main
