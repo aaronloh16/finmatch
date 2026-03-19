@@ -1,6 +1,7 @@
 # FinMatch - Swipe Right on Your Financial Future
 
 **Built in 25 minutes at the Mini Cursor Hackathon at the Cursor Cafe event.** We were one of five groups selected to present our project live.
+<img width="585" height="546" alt="Screenshot 2026-03-19 at 1 53 04 PM" src="https://github.com/user-attachments/assets/99e36b69-9071-44b8-9f6f-f92d4c131b53" />
 
 ## What is FinMatch?
 
